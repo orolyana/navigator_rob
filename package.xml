@@ -1,8 +1,8 @@
 <package format="2">
-  <name>lets_just_dance</name>
+  <name>navigator_robo</name>
   <version>0.0.0</version>
   <description>
-  The lets just dance final package
+ robot
   </description>
   <maintainer email="dshifrina@uchicago.edu">ibrahim abas</maintainer>
   <license>mit</license>
